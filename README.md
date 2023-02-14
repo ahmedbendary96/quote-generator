@@ -6,7 +6,7 @@ A small JavaScript Application that generates a random quote each time the user 
 
 ## Demo
 
-Insert gif or link to demo
+https://ahmedbendary96.github.io/quote-generator/
 
 
 ## 🔗 Links
